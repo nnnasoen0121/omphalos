@@ -107,7 +107,8 @@ select {
     position: absolute;
     width: 379px;
     top: 40%;
-    left: 500px;
+    left: 38%;
+    margin-left: -197px;
     text-align: left;
     font-weight: 300;
 }
